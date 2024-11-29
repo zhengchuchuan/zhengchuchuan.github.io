@@ -21,16 +21,11 @@
     <loc>https://zhengchuchuan.github.io/post/</loc>
     <lastmod>2024-11-22T11:24:32+08:00</lastmod>
   </url><url>
-    <loc>https://zhengchuchuan.github.io/p/%E5%BB%BA%E7%AB%99%E7%BB%8F%E9%AA%8C%E5%88%86%E4%BA%AB/</loc>
+    <loc>https://zhengchuchuan.github.io/tags/blog/</loc>
     <lastmod>2024-11-22T09:58:32+08:00</lastmod>
   </url><url>
-    <loc>https://zhengchuchuan.github.io/page/</loc>
-    <lastmod>2019-05-28T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://zhengchuchuan.github.io/archives/</loc>
-    <lastmod>2019-05-28T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>https://zhengchuchuan.github.io/categories/</loc>
+    <lastmod>2024-11-22T09:58:32+08:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -42,7 +37,14 @@
                 href="https://zhengchuchuan.github.io/categories/"
                 />
   </url><url>
+    <loc>https://zhengchuchuan.github.io/tags/hugo/</loc>
+    <lastmod>2024-11-22T09:58:32+08:00</lastmod>
+  </url><url>
+    <loc>https://zhengchuchuan.github.io/p/hugo%E5%BB%BA%E7%AB%99%E7%BB%8F%E9%AA%8C%E5%88%86%E4%BA%AB/</loc>
+    <lastmod>2024-11-22T09:58:32+08:00</lastmod>
+  </url><url>
     <loc>https://zhengchuchuan.github.io/tags/</loc>
+    <lastmod>2024-11-22T09:58:32+08:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -53,6 +55,15 @@
                 hreflang="zh-cn"
                 href="https://zhengchuchuan.github.io/tags/"
                 />
+  </url><url>
+    <loc>https://zhengchuchuan.github.io/categories/%E5%8D%9A%E5%AE%A2/</loc>
+    <lastmod>2024-11-22T09:58:32+08:00</lastmod>
+  </url><url>
+    <loc>https://zhengchuchuan.github.io/page/</loc>
+    <lastmod>2019-05-28T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://zhengchuchuan.github.io/archives/</loc>
+    <lastmod>2019-05-28T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://zhengchuchuan.github.io/categories/test/</loc>
   </url><url>
