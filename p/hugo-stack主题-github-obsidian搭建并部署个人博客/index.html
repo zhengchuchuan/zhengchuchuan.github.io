@@ -2,16 +2,16 @@
 <html lang="zh-cn" dir="ltr">
     <head><meta charset='utf-8'>
 <meta name='viewport' content='width=device-width, initial-scale=1'><meta name='description' content="博客搭建踩坑记录">
-<title>Hugo&#43;Github&#43;Obsidian搭建个人博客</title>
+<title>Hugo&#43;Stack主题&#43;Github&#43;Obsidian搭建并部署个人博客</title>
 
-<link rel='canonical' href='https://zhengchuchuan.github.io/p/hugo-github-obsidian%E6%90%AD%E5%BB%BA%E4%B8%AA%E4%BA%BA%E5%8D%9A%E5%AE%A2/'>
+<link rel='canonical' href='https://zhengchuchuan.github.io/p/hugo-stack%E4%B8%BB%E9%A2%98-github-obsidian%E6%90%AD%E5%BB%BA%E5%B9%B6%E9%83%A8%E7%BD%B2%E4%B8%AA%E4%BA%BA%E5%8D%9A%E5%AE%A2/'>
 
-<link rel="stylesheet" href="/scss/style.min.663803bebe609202d5b39d848f2d7c2dc8b598a2d879efa079fa88893d29c49c.css"><meta property='og:title' content="Hugo+Github+Obsidian搭建个人博客">
+<link rel="stylesheet" href="/scss/style.min.663803bebe609202d5b39d848f2d7c2dc8b598a2d879efa079fa88893d29c49c.css"><meta property='og:title' content="Hugo+Stack主题+Github+Obsidian搭建并部署个人博客">
 <meta property='og:description' content="博客搭建踩坑记录">
-<meta property='og:url' content='https://zhengchuchuan.github.io/p/hugo-github-obsidian%E6%90%AD%E5%BB%BA%E4%B8%AA%E4%BA%BA%E5%8D%9A%E5%AE%A2/'>
+<meta property='og:url' content='https://zhengchuchuan.github.io/p/hugo-stack%E4%B8%BB%E9%A2%98-github-obsidian%E6%90%AD%E5%BB%BA%E5%B9%B6%E9%83%A8%E7%BD%B2%E4%B8%AA%E4%BA%BA%E5%8D%9A%E5%AE%A2/'>
 <meta property='og:site_name' content='Tritium'>
 <meta property='og:type' content='article'><meta property='article:section' content='Post' /><meta property='article:tag' content='hugo' /><meta property='article:tag' content='blog' /><meta property='article:published_time' content='2024-12-22T00:00:00&#43;00:00'/><meta property='article:modified_time' content='2024-12-22T00:00:00&#43;00:00'/>
-<meta name="twitter:title" content="Hugo+Github+Obsidian搭建个人博客">
+<meta name="twitter:title" content="Hugo+Stack主题+Github+Obsidian搭建并部署个人博客">
 <meta name="twitter:description" content="博客搭建踩坑记录">
     <link rel="shortcut icon" href="/pikachu.ico" />
 
@@ -303,6 +303,7 @@
         <li><a href="#hugo常用命令">hugo常用命令</a></li>
       </ol>
     </li>
+    <li><a href="#评论系统配置">评论系统配置</a></li>
     <li><a href="#博客自动化部署">博客自动化部署</a>
       <ol>
         <li><a href="#github-pages-设置">github pages 设置</a></li>
@@ -349,7 +350,7 @@
 
     <div class="article-title-wrapper">
         <h2 class="article-title">
-            <a href="/p/hugo-github-obsidian%E6%90%AD%E5%BB%BA%E4%B8%AA%E4%BA%BA%E5%8D%9A%E5%AE%A2/">Hugo&#43;Github&#43;Obsidian搭建个人博客</a>
+            <a href="/p/hugo-stack%E4%B8%BB%E9%A2%98-github-obsidian%E6%90%AD%E5%BB%BA%E5%B9%B6%E9%83%A8%E7%BD%B2%E4%B8%AA%E4%BA%BA%E5%8D%9A%E5%AE%A2/">Hugo&#43;Stack主题&#43;Github&#43;Obsidian搭建并部署个人博客</a>
         </h2>
     
         
@@ -441,10 +442,10 @@
   </tbody>
 </table></div>
 <p>一般没有特殊需求安装extended版本即可,windows平台一般选择如下版本
-<img src="/p/hugo-github-obsidian%E6%90%AD%E5%BB%BA%E4%B8%AA%E4%BA%BA%E5%8D%9A%E5%AE%A2/index_20241222_140344.png"
+<img src="/p/hugo-stack%E4%B8%BB%E9%A2%98-github-obsidian%E6%90%AD%E5%BB%BA%E5%B9%B6%E9%83%A8%E7%BD%B2%E4%B8%AA%E4%BA%BA%E5%8D%9A%E5%AE%A2/index_20241222_140344.png"
 	width="1818"
 	height="1575"
-	srcset="/p/hugo-github-obsidian%E6%90%AD%E5%BB%BA%E4%B8%AA%E4%BA%BA%E5%8D%9A%E5%AE%A2/index_20241222_140344_hu12817519263327818821.png 480w, /p/hugo-github-obsidian%E6%90%AD%E5%BB%BA%E4%B8%AA%E4%BA%BA%E5%8D%9A%E5%AE%A2/index_20241222_140344_hu12424143450758864471.png 1024w"
+	srcset="/p/hugo-stack%E4%B8%BB%E9%A2%98-github-obsidian%E6%90%AD%E5%BB%BA%E5%B9%B6%E9%83%A8%E7%BD%B2%E4%B8%AA%E4%BA%BA%E5%8D%9A%E5%AE%A2/index_20241222_140344_hu12817519263327818821.png 480w, /p/hugo-stack%E4%B8%BB%E9%A2%98-github-obsidian%E6%90%AD%E5%BB%BA%E5%B9%B6%E9%83%A8%E7%BD%B2%E4%B8%AA%E4%BA%BA%E5%8D%9A%E5%AE%A2/index_20241222_140344_hu12424143450758864471.png 1024w"
 	loading="lazy"
 	
 		alt="发行版"
@@ -505,10 +506,10 @@
 </div><h3 id="主题安装配置">主题安装配置
 </h3><p>hugo提供了非常多的免费主题,具体可在 <a class="link" href="https://themes.gohugo.io/"  target="_blank" rel="noopener"
     >Hugo主题</a> 查找,为了保证网站长期稳定,建议使用近期更新比较活跃的主题以避免hugo更新后产生的兼容性问题,可以在github中搜索hugo-themes,找stars数较多的使用,追求个性化忽略此建议
-<img src="/p/hugo-github-obsidian%E6%90%AD%E5%BB%BA%E4%B8%AA%E4%BA%BA%E5%8D%9A%E5%AE%A2/index_20241222_160527.png"
+<img src="/p/hugo-stack%E4%B8%BB%E9%A2%98-github-obsidian%E6%90%AD%E5%BB%BA%E5%B9%B6%E9%83%A8%E7%BD%B2%E4%B8%AA%E4%BA%BA%E5%8D%9A%E5%AE%A2/index_20241222_160527.png"
 	width="3306"
 	height="1827"
-	srcset="/p/hugo-github-obsidian%E6%90%AD%E5%BB%BA%E4%B8%AA%E4%BA%BA%E5%8D%9A%E5%AE%A2/index_20241222_160527_hu1943152020365308633.png 480w, /p/hugo-github-obsidian%E6%90%AD%E5%BB%BA%E4%B8%AA%E4%BA%BA%E5%8D%9A%E5%AE%A2/index_20241222_160527_hu10663813724626469701.png 1024w"
+	srcset="/p/hugo-stack%E4%B8%BB%E9%A2%98-github-obsidian%E6%90%AD%E5%BB%BA%E5%B9%B6%E9%83%A8%E7%BD%B2%E4%B8%AA%E4%BA%BA%E5%8D%9A%E5%AE%A2/index_20241222_160527_hu1943152020365308633.png 480w, /p/hugo-stack%E4%B8%BB%E9%A2%98-github-obsidian%E6%90%AD%E5%BB%BA%E5%B9%B6%E9%83%A8%E7%BD%B2%E4%B8%AA%E4%BA%BA%E5%8D%9A%E5%AE%A2/index_20241222_160527_hu10663813724626469701.png 1024w"
 	loading="lazy"
 	
 	
@@ -578,14 +579,31 @@
 </span></span><span class="line"><span class="cl">//将生成的网站文件部署到指定的部署目标，如 GitHub Pages、Netlify 等。
 </span></span></code></pre></td></tr></table>
 </div>
-</div><h2 id="博客自动化部署">博客自动化部署
+</div><h2 id="评论系统配置">评论系统配置
+</h2><p>stack支持很多评论系统这里选择giscus,在github中安装giscus app,选择自己github page的仓库,具体安装可参考<a class="link" href="https://www.lixueduan.com/posts/blog/02-add-giscus-comment/"  target="_blank" rel="noopener"
+    >Hugo 博客引入 Giscus 评论系统</a>
+<img src="/p/hugo-stack%E4%B8%BB%E9%A2%98-github-obsidian%E6%90%AD%E5%BB%BA%E5%B9%B6%E9%83%A8%E7%BD%B2%E4%B8%AA%E4%BA%BA%E5%8D%9A%E5%AE%A2/index_20241229_140633.png"
+	width="800"
+	height="1239"
+	srcset="/p/hugo-stack%E4%B8%BB%E9%A2%98-github-obsidian%E6%90%AD%E5%BB%BA%E5%B9%B6%E9%83%A8%E7%BD%B2%E4%B8%AA%E4%BA%BA%E5%8D%9A%E5%AE%A2/index_20241229_140633_hu978169553164066252.png 480w, /p/hugo-stack%E4%B8%BB%E9%A2%98-github-obsidian%E6%90%AD%E5%BB%BA%E5%B9%B6%E9%83%A8%E7%BD%B2%E4%B8%AA%E4%BA%BA%E5%8D%9A%E5%AE%A2/index_20241229_140633_hu18295844067220159232.png 1024w"
+	loading="lazy"
+	
+		alt="index_20241229_140633.png"
+	
+	
+		class="gallery-image" 
+		data-flex-grow="64"
+		data-flex-basis="154px"
+	
+></p>
+<h2 id="博客自动化部署">博客自动化部署
 </h2><p>上面提到的b站视频里已经包含了部署的详细内容,这里只补充一些踩坑的地方,建议如果你只打算部署一个博客,那么建议在github上使用两个项目文件夹管理你的博客,一个类似<code>https://github.com/yourUserName/ </code>的私人仓库制作github pages,用于发布你的网站.另一个项目则用于保存你的源代码.
 需要注意以下几点:</p>
 <h3 id="github-pages-设置">github pages 设置
-</h3><p>github pages是在<code>https://github.com/yourUserName/ </code>这个私有的项目上部署,所以需要再这个项目设置中开启github pages配置<img src="/p/hugo-github-obsidian%E6%90%AD%E5%BB%BA%E4%B8%AA%E4%BA%BA%E5%8D%9A%E5%AE%A2/index_20241222_164808.png"
+</h3><p>github pages是在<code>https://github.com/yourUserName/ </code>这个私有的项目上部署,所以需要再这个项目设置中开启github pages配置<img src="/p/hugo-stack%E4%B8%BB%E9%A2%98-github-obsidian%E6%90%AD%E5%BB%BA%E5%B9%B6%E9%83%A8%E7%BD%B2%E4%B8%AA%E4%BA%BA%E5%8D%9A%E5%AE%A2/index_20241222_164808.png"
 	width="2695"
 	height="1494"
-	srcset="/p/hugo-github-obsidian%E6%90%AD%E5%BB%BA%E4%B8%AA%E4%BA%BA%E5%8D%9A%E5%AE%A2/index_20241222_164808_hu2284902585429899407.png 480w, /p/hugo-github-obsidian%E6%90%AD%E5%BB%BA%E4%B8%AA%E4%BA%BA%E5%8D%9A%E5%AE%A2/index_20241222_164808_hu14874202106026616479.png 1024w"
+	srcset="/p/hugo-stack%E4%B8%BB%E9%A2%98-github-obsidian%E6%90%AD%E5%BB%BA%E5%B9%B6%E9%83%A8%E7%BD%B2%E4%B8%AA%E4%BA%BA%E5%8D%9A%E5%AE%A2/index_20241222_164808_hu2284902585429899407.png 480w, /p/hugo-stack%E4%B8%BB%E9%A2%98-github-obsidian%E6%90%AD%E5%BB%BA%E5%B9%B6%E9%83%A8%E7%BD%B2%E4%B8%AA%E4%BA%BA%E5%8D%9A%E5%AE%A2/index_20241222_164808_hu14874202106026616479.png 1024w"
 	loading="lazy"
 	
 	
@@ -718,10 +736,10 @@ Obsidian可以预先写好模板,新建模板后直接插入即可达成hugo命�
 </span></span><span class="line"><span class="cl">---
 </span></span></code></pre></td></tr></table>
 </div>
-</div><p>以上模板文件即可生成如下效果：<img src="/p/hugo-github-obsidian%E6%90%AD%E5%BB%BA%E4%B8%AA%E4%BA%BA%E5%8D%9A%E5%AE%A2/index_20241222_221638.png"
+</div><p>以上模板文件即可生成如下效果：<img src="/p/hugo-stack%E4%B8%BB%E9%A2%98-github-obsidian%E6%90%AD%E5%BB%BA%E5%B9%B6%E9%83%A8%E7%BD%B2%E4%B8%AA%E4%BA%BA%E5%8D%9A%E5%AE%A2/index_20241222_221638.png"
 	width="1077"
 	height="532"
-	srcset="/p/hugo-github-obsidian%E6%90%AD%E5%BB%BA%E4%B8%AA%E4%BA%BA%E5%8D%9A%E5%AE%A2/index_20241222_221638_hu13757192382828706096.png 480w, /p/hugo-github-obsidian%E6%90%AD%E5%BB%BA%E4%B8%AA%E4%BA%BA%E5%8D%9A%E5%AE%A2/index_20241222_221638_hu1282333407221636839.png 1024w"
+	srcset="/p/hugo-stack%E4%B8%BB%E9%A2%98-github-obsidian%E6%90%AD%E5%BB%BA%E5%B9%B6%E9%83%A8%E7%BD%B2%E4%B8%AA%E4%BA%BA%E5%8D%9A%E5%AE%A2/index_20241222_221638_hu13757192382828706096.png 480w, /p/hugo-stack%E4%B8%BB%E9%A2%98-github-obsidian%E6%90%AD%E5%BB%BA%E5%B9%B6%E9%83%A8%E7%BD%B2%E4%B8%AA%E4%BA%BA%E5%8D%9A%E5%AE%A2/index_20241222_221638_hu1282333407221636839.png 1024w"
 	loading="lazy"
 	
 	
@@ -733,10 +751,10 @@ Obsidian可以预先写好模板,新建模板后直接插入即可达成hugo命�
 后续新建一篇博客只需要插入此模板即可。</p>
 <h3 id="obsidian附件管理">Obsidian附件管理
 </h3><p>由于hugo的格式要求将附件放在index文件夹的同级目录,所以需要在<strong>设置-&gt;文件与链接</strong>中将附件默认存放路径更改为当前博客所在的文件
-<img src="/p/hugo-github-obsidian%E6%90%AD%E5%BB%BA%E4%B8%AA%E4%BA%BA%E5%8D%9A%E5%AE%A2/index_20241229_130523.png"
+<img src="/p/hugo-stack%E4%B8%BB%E9%A2%98-github-obsidian%E6%90%AD%E5%BB%BA%E5%B9%B6%E9%83%A8%E7%BD%B2%E4%B8%AA%E4%BA%BA%E5%8D%9A%E5%AE%A2/index_20241229_130523.png"
 	width="1638"
 	height="1283"
-	srcset="/p/hugo-github-obsidian%E6%90%AD%E5%BB%BA%E4%B8%AA%E4%BA%BA%E5%8D%9A%E5%AE%A2/index_20241229_130523_hu662729376821768850.png 480w, /p/hugo-github-obsidian%E6%90%AD%E5%BB%BA%E4%B8%AA%E4%BA%BA%E5%8D%9A%E5%AE%A2/index_20241229_130523_hu11039197391916735311.png 1024w"
+	srcset="/p/hugo-stack%E4%B8%BB%E9%A2%98-github-obsidian%E6%90%AD%E5%BB%BA%E5%B9%B6%E9%83%A8%E7%BD%B2%E4%B8%AA%E4%BA%BA%E5%8D%9A%E5%AE%A2/index_20241229_130523_hu662729376821768850.png 480w, /p/hugo-stack%E4%B8%BB%E9%A2%98-github-obsidian%E6%90%AD%E5%BB%BA%E5%B9%B6%E9%83%A8%E7%BD%B2%E4%B8%AA%E4%BA%BA%E5%8D%9A%E5%AE%A2/index_20241229_130523_hu11039197391916735311.png 1024w"
 	loading="lazy"
 	
 		alt="index_20241229_130523.png"
@@ -764,10 +782,10 @@ Obsidian可以预先写好模板,新建模板后直接插入即可达成hugo命�
 wiki 链接虽然为 Obsidian 独有，然而各家针对 Obsidian 已经做了很多配套，文件链接使用 markdown 链接往往被识别为附件或者外链（比如思源笔记、vercel）;
 Obsidian 的外链只能使用 markdown 链接，使用 wiki 链接会无法跳转</p>
 <h3 id="paste-image-rename插件消除图像文件空格"><strong>Paste Image Rename</strong>插件消除图像文件空格
-</h3><p>由于截图的图像粘贴到Obsidian中时会命名为类似如下的格式:Pasted image 20241229130829.png, html中不支持空格,所以需要去除图像中的空格,这里需要用到一个插件<strong>Paste Image Rename</strong>,通过在导入文件时自动重命名文件以起到消除空格的作用,参考重命名格式如下<img src="/p/hugo-github-obsidian%E6%90%AD%E5%BB%BA%E4%B8%AA%E4%BA%BA%E5%8D%9A%E5%AE%A2/index_20241223_000939.png"
+</h3><p>由于截图的图像粘贴到Obsidian中时会命名为类似如下的格式:Pasted image 20241229130829.png, html中不支持空格,所以需要去除图像中的空格,这里需要用到一个插件<strong>Paste Image Rename</strong>,通过在导入文件时自动重命名文件以起到消除空格的作用,参考重命名格式如下<img src="/p/hugo-stack%E4%B8%BB%E9%A2%98-github-obsidian%E6%90%AD%E5%BB%BA%E5%B9%B6%E9%83%A8%E7%BD%B2%E4%B8%AA%E4%BA%BA%E5%8D%9A%E5%AE%A2/index_20241223_000939.png"
 	width="1641"
 	height="1494"
-	srcset="/p/hugo-github-obsidian%E6%90%AD%E5%BB%BA%E4%B8%AA%E4%BA%BA%E5%8D%9A%E5%AE%A2/index_20241223_000939_hu3365746779644214441.png 480w, /p/hugo-github-obsidian%E6%90%AD%E5%BB%BA%E4%B8%AA%E4%BA%BA%E5%8D%9A%E5%AE%A2/index_20241223_000939_hu7420107141089786410.png 1024w"
+	srcset="/p/hugo-stack%E4%B8%BB%E9%A2%98-github-obsidian%E6%90%AD%E5%BB%BA%E5%B9%B6%E9%83%A8%E7%BD%B2%E4%B8%AA%E4%BA%BA%E5%8D%9A%E5%AE%A2/index_20241223_000939_hu3365746779644214441.png 480w, /p/hugo-stack%E4%B8%BB%E9%A2%98-github-obsidian%E6%90%AD%E5%BB%BA%E5%B9%B6%E9%83%A8%E7%BD%B2%E4%B8%AA%E4%BA%BA%E5%8D%9A%E5%AE%A2/index_20241223_000939_hu7420107141089786410.png 1024w"
 	loading="lazy"
 	
 		alt="index_20241223_000939.png"
@@ -781,10 +799,10 @@ Obsidian 的外链只能使用 markdown 链接，使用 wiki 链接会无法跳�
 <h3 id="obsidian中文件链接的选择">Obsidian中文件链接的选择
 </h3><p>Obsidian默认使用wiki的文件链接格式,由于网页渲染需要原生的markdown文件链接格式,所以有两个选择:</p>
 <h4 id="使用markdown文件链接">使用markdown文件链接
-</h4><p>Obsidian不使用wiki链接,一直使用markdown文件链接格式,在<strong>设置-&gt;文件与链接</strong>中关闭使用wiki格式即可<img src="/p/hugo-github-obsidian%E6%90%AD%E5%BB%BA%E4%B8%AA%E4%BA%BA%E5%8D%9A%E5%AE%A2/index_20241222_235416.png"
+</h4><p>Obsidian不使用wiki链接,一直使用markdown文件链接格式,在<strong>设置-&gt;文件与链接</strong>中关闭使用wiki格式即可<img src="/p/hugo-stack%E4%B8%BB%E9%A2%98-github-obsidian%E6%90%AD%E5%BB%BA%E5%B9%B6%E9%83%A8%E7%BD%B2%E4%B8%AA%E4%BA%BA%E5%8D%9A%E5%AE%A2/index_20241222_235416.png"
 	width="1631"
 	height="1314"
-	srcset="/p/hugo-github-obsidian%E6%90%AD%E5%BB%BA%E4%B8%AA%E4%BA%BA%E5%8D%9A%E5%AE%A2/index_20241222_235416_hu6420101366163860865.png 480w, /p/hugo-github-obsidian%E6%90%AD%E5%BB%BA%E4%B8%AA%E4%BA%BA%E5%8D%9A%E5%AE%A2/index_20241222_235416_hu2421079986909934093.png 1024w"
+	srcset="/p/hugo-stack%E4%B8%BB%E9%A2%98-github-obsidian%E6%90%AD%E5%BB%BA%E5%B9%B6%E9%83%A8%E7%BD%B2%E4%B8%AA%E4%BA%BA%E5%8D%9A%E5%AE%A2/index_20241222_235416_hu6420101366163860865.png 480w, /p/hugo-stack%E4%B8%BB%E9%A2%98-github-obsidian%E6%90%AD%E5%BB%BA%E5%B9%B6%E9%83%A8%E7%BD%B2%E4%B8%AA%E4%BA%BA%E5%8D%9A%E5%AE%A2/index_20241222_235416_hu2421079986909934093.png 1024w"
 	loading="lazy"
 	
 		alt="index_20241222_235416.png"
@@ -798,10 +816,10 @@ Obsidian 的外链只能使用 markdown 链接，使用 wiki 链接会无法跳�
 <h4 id="使用wiki格式部署时再转换为原始的markdown格式">使用wiki格式部署时再转换为原始的markdown格式
 </h4><p>下载<a class="link" href="https://github.com/mii-key/obsidian-links"  target="_blank" rel="noopener"
     >Links</a>插件,只需在设置菜单开启convert Wikilinks to Markdown links后即可在右键菜单找到此选项,全选文本,执行此命令即可成功将Wiki链接全部替换为markdown链接
-<img src="/p/hugo-github-obsidian%E6%90%AD%E5%BB%BA%E4%B8%AA%E4%BA%BA%E5%8D%9A%E5%AE%A2/index_20241228_235208.png"
+<img src="/p/hugo-stack%E4%B8%BB%E9%A2%98-github-obsidian%E6%90%AD%E5%BB%BA%E5%B9%B6%E9%83%A8%E7%BD%B2%E4%B8%AA%E4%BA%BA%E5%8D%9A%E5%AE%A2/index_20241228_235208.png"
 	width="1628"
 	height="1505"
-	srcset="/p/hugo-github-obsidian%E6%90%AD%E5%BB%BA%E4%B8%AA%E4%BA%BA%E5%8D%9A%E5%AE%A2/index_20241228_235208_hu9683657255040786646.png 480w, /p/hugo-github-obsidian%E6%90%AD%E5%BB%BA%E4%B8%AA%E4%BA%BA%E5%8D%9A%E5%AE%A2/index_20241228_235208_hu5928991893875582457.png 1024w"
+	srcset="/p/hugo-stack%E4%B8%BB%E9%A2%98-github-obsidian%E6%90%AD%E5%BB%BA%E5%B9%B6%E9%83%A8%E7%BD%B2%E4%B8%AA%E4%BA%BA%E5%8D%9A%E5%AE%A2/index_20241228_235208_hu9683657255040786646.png 480w, /p/hugo-stack%E4%B8%BB%E9%A2%98-github-obsidian%E6%90%AD%E5%BB%BA%E5%B9%B6%E9%83%A8%E7%BD%B2%E4%B8%AA%E4%BA%BA%E5%8D%9A%E5%AE%A2/index_20241228_235208_hu5928991893875582457.png 1024w"
 	loading="lazy"
 	
 		alt="index_20241228_235208.png"
@@ -877,46 +895,55 @@ Obsidian 的外链只能使用 markdown 链接，使用 wiki 链接会无法跳�
      
     
         
-    <div class="disqus-container">
-    <div id="disqus_thread"></div>
+    <script
+    src="https://giscus.app/client.js"
+    data-repo="zhengchuchuan/zhengchuchuan.github.io"
+    data-repo-id="R_kgDONTCvpg"
+    data-category="Announcements"
+    data-category-id="DIC_kwDONTCvps4ClleY"
+    data-mapping="pathname"
+    data-strict="0"
+    data-reactions-enabled="1"
+    data-emit-metadata="0"
+    data-input-position="top"
+    data-theme="light"
+    data-lang="zh-cn"
+    data-loading=""
+    crossorigin="anonymous"
+    async
+></script>
 <script>
-    window.disqus_config = function () {
-    
-    
-    
-    };
-    (function() {
-        if (["localhost", "127.0.0.1"].indexOf(window.location.hostname) != -1) {
-            document.getElementById('disqus_thread').innerHTML = 'Disqus comments not available by default when the website is previewed locally.';
-            return;
+    function setGiscusTheme(theme) {
+        let giscus = document.querySelector("iframe.giscus-frame");
+        if (giscus) {
+            giscus.contentWindow.postMessage(
+                {
+                    giscus: {
+                        setConfig: {
+                            theme: theme,
+                        },
+                    },
+                },
+                "https://giscus.app"
+            );
         }
-        var d = document, s = d.createElement('script'); s.async = true;
-        s.src = '//' + "hugo-theme-stack" + '.disqus.com/embed.js';
-        s.setAttribute('data-timestamp', +new Date());
-        (d.head || d.body).appendChild(s);
-    })();
-</script>
-<noscript>Please enable JavaScript to view the <a href="https://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
-<a href="https://disqus.com" class="dsq-brlink">comments powered by <span class="logo-disqus">Disqus</span></a>
-</div>
-
-<style>
-    .disqus-container {
-        background-color: var(--card-background);
-        border-radius: var(--card-border-radius);
-        box-shadow: var(--shadow-l1);
-        padding: var(--card-padding);
     }
-</style>
 
-<script>
-    window.addEventListener('onColorSchemeChange', (e) => {
-        if (typeof DISQUS == 'object') {
-            DISQUS.reset({
-                reload: true
-            });
+    (function () {
+        addEventListener("message", (e) => {
+            if (event.origin !== "https://giscus.app") return;
+            handler();
+        });
+        window.addEventListener("onColorSchemeChange", handler);
+
+        function handler() {
+            if (document.documentElement.dataset.scheme === "light") {
+                setGiscusTheme('light');
+            } else {
+                setGiscusTheme('dark');
+            }
         }
-    })
+    })();
 </script>
 
     
