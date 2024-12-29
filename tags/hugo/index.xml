@@ -49,10 +49,10 @@
   &lt;/tbody&gt;
 &lt;/table&gt;
 &lt;p&gt;一般没有特殊需求安装extended版本即可,windows平台一般选择如下版本
-&lt;img src=&#34;https://zhengchuchuan.github.io/p/hugo-stack%E4%B8%BB%E9%A2%98-github-obsidian%E6%90%AD%E5%BB%BA%E5%B9%B6%E9%83%A8%E7%BD%B2%E4%B8%AA%E4%BA%BA%E5%8D%9A%E5%AE%A2/post/Hugo&amp;#43;Stack%E4%B8%BB%E9%A2%98&amp;#43;Github&amp;#43;Obsidian%E6%90%AD%E5%BB%BA%E5%B9%B6%E9%83%A8%E7%BD%B2%E4%B8%AA%E4%BA%BA%E5%8D%9A%E5%AE%A2/index_20241222_140344.png&#34;
+&lt;img src=&#34;https://zhengchuchuan.github.io/p/hugo-stack%E4%B8%BB%E9%A2%98-github-obsidian%E6%90%AD%E5%BB%BA%E5%B9%B6%E9%83%A8%E7%BD%B2%E4%B8%AA%E4%BA%BA%E5%8D%9A%E5%AE%A2/post/Hugo&amp;#43;Stack%E4%B8%BB%E9%A2%98&amp;#43;Github&amp;#43;Obsidian%E6%90%AD%E5%BB%BA%E5%B9%B6%E9%83%A8%E7%BD%B2%E4%B8%AA%E4%BA%BA%E5%8D%9A%E5%AE%A2/index.zh-cn_20241222_140344.png&#34;
 	width=&#34;1818&#34;
 	height=&#34;1575&#34;
-	srcset=&#34;https://zhengchuchuan.github.io/p/hugo-stack%E4%B8%BB%E9%A2%98-github-obsidian%E6%90%AD%E5%BB%BA%E5%B9%B6%E9%83%A8%E7%BD%B2%E4%B8%AA%E4%BA%BA%E5%8D%9A%E5%AE%A2/post/Hugo&amp;#43;Stack%E4%B8%BB%E9%A2%98&amp;#43;Github&amp;#43;Obsidian%E6%90%AD%E5%BB%BA%E5%B9%B6%E9%83%A8%E7%BD%B2%E4%B8%AA%E4%BA%BA%E5%8D%9A%E5%AE%A2/index_20241222_140344_hu12817519263327818821.png 480w, https://zhengchuchuan.github.io/p/hugo-stack%E4%B8%BB%E9%A2%98-github-obsidian%E6%90%AD%E5%BB%BA%E5%B9%B6%E9%83%A8%E7%BD%B2%E4%B8%AA%E4%BA%BA%E5%8D%9A%E5%AE%A2/post/Hugo&amp;#43;Stack%E4%B8%BB%E9%A2%98&amp;#43;Github&amp;#43;Obsidian%E6%90%AD%E5%BB%BA%E5%B9%B6%E9%83%A8%E7%BD%B2%E4%B8%AA%E4%BA%BA%E5%8D%9A%E5%AE%A2/index_20241222_140344_hu12424143450758864471.png 1024w&#34;
+	srcset=&#34;https://zhengchuchuan.github.io/p/hugo-stack%E4%B8%BB%E9%A2%98-github-obsidian%E6%90%AD%E5%BB%BA%E5%B9%B6%E9%83%A8%E7%BD%B2%E4%B8%AA%E4%BA%BA%E5%8D%9A%E5%AE%A2/post/Hugo&amp;#43;Stack%E4%B8%BB%E9%A2%98&amp;#43;Github&amp;#43;Obsidian%E6%90%AD%E5%BB%BA%E5%B9%B6%E9%83%A8%E7%BD%B2%E4%B8%AA%E4%BA%BA%E5%8D%9A%E5%AE%A2/index.zh-cn_20241222_140344_hu12817519263327818821.png 480w, https://zhengchuchuan.github.io/p/hugo-stack%E4%B8%BB%E9%A2%98-github-obsidian%E6%90%AD%E5%BB%BA%E5%B9%B6%E9%83%A8%E7%BD%B2%E4%B8%AA%E4%BA%BA%E5%8D%9A%E5%AE%A2/post/Hugo&amp;#43;Stack%E4%B8%BB%E9%A2%98&amp;#43;Github&amp;#43;Obsidian%E6%90%AD%E5%BB%BA%E5%B9%B6%E9%83%A8%E7%BD%B2%E4%B8%AA%E4%BA%BA%E5%8D%9A%E5%AE%A2/index.zh-cn_20241222_140344_hu12424143450758864471.png 1024w&#34;
 	loading=&#34;lazy&#34;
 	
 		alt=&#34;发行版&#34;
@@ -113,10 +113,10 @@
 &lt;/div&gt;&lt;h3 id=&#34;主题安装配置&#34;&gt;主题安装配置
 &lt;/h3&gt;&lt;p&gt;hugo提供了非常多的免费主题,具体可在 &lt;a class=&#34;link&#34; href=&#34;https://themes.gohugo.io/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
     &gt;Hugo主题&lt;/a&gt; 查找,为了保证网站长期稳定,建议使用近期更新比较活跃的主题以避免hugo更新后产生的兼容性问题,可以在github中搜索hugo-themes,找stars数较多的使用,追求个性化忽略此建议
-&lt;img src=&#34;https://zhengchuchuan.github.io/p/hugo-stack%E4%B8%BB%E9%A2%98-github-obsidian%E6%90%AD%E5%BB%BA%E5%B9%B6%E9%83%A8%E7%BD%B2%E4%B8%AA%E4%BA%BA%E5%8D%9A%E5%AE%A2/post/Hugo&amp;#43;Stack%E4%B8%BB%E9%A2%98&amp;#43;Github&amp;#43;Obsidian%E6%90%AD%E5%BB%BA%E5%B9%B6%E9%83%A8%E7%BD%B2%E4%B8%AA%E4%BA%BA%E5%8D%9A%E5%AE%A2/index_20241222_160527.png&#34;
+&lt;img src=&#34;https://zhengchuchuan.github.io/p/hugo-stack%E4%B8%BB%E9%A2%98-github-obsidian%E6%90%AD%E5%BB%BA%E5%B9%B6%E9%83%A8%E7%BD%B2%E4%B8%AA%E4%BA%BA%E5%8D%9A%E5%AE%A2/post/Hugo&amp;#43;Stack%E4%B8%BB%E9%A2%98&amp;#43;Github&amp;#43;Obsidian%E6%90%AD%E5%BB%BA%E5%B9%B6%E9%83%A8%E7%BD%B2%E4%B8%AA%E4%BA%BA%E5%8D%9A%E5%AE%A2/index.zh-cn_20241222_160527.png&#34;
 	width=&#34;3306&#34;
 	height=&#34;1827&#34;
-	srcset=&#34;https://zhengchuchuan.github.io/p/hugo-stack%E4%B8%BB%E9%A2%98-github-obsidian%E6%90%AD%E5%BB%BA%E5%B9%B6%E9%83%A8%E7%BD%B2%E4%B8%AA%E4%BA%BA%E5%8D%9A%E5%AE%A2/post/Hugo&amp;#43;Stack%E4%B8%BB%E9%A2%98&amp;#43;Github&amp;#43;Obsidian%E6%90%AD%E5%BB%BA%E5%B9%B6%E9%83%A8%E7%BD%B2%E4%B8%AA%E4%BA%BA%E5%8D%9A%E5%AE%A2/index_20241222_160527_hu1943152020365308633.png 480w, https://zhengchuchuan.github.io/p/hugo-stack%E4%B8%BB%E9%A2%98-github-obsidian%E6%90%AD%E5%BB%BA%E5%B9%B6%E9%83%A8%E7%BD%B2%E4%B8%AA%E4%BA%BA%E5%8D%9A%E5%AE%A2/post/Hugo&amp;#43;Stack%E4%B8%BB%E9%A2%98&amp;#43;Github&amp;#43;Obsidian%E6%90%AD%E5%BB%BA%E5%B9%B6%E9%83%A8%E7%BD%B2%E4%B8%AA%E4%BA%BA%E5%8D%9A%E5%AE%A2/index_20241222_160527_hu10663813724626469701.png 1024w&#34;
+	srcset=&#34;https://zhengchuchuan.github.io/p/hugo-stack%E4%B8%BB%E9%A2%98-github-obsidian%E6%90%AD%E5%BB%BA%E5%B9%B6%E9%83%A8%E7%BD%B2%E4%B8%AA%E4%BA%BA%E5%8D%9A%E5%AE%A2/post/Hugo&amp;#43;Stack%E4%B8%BB%E9%A2%98&amp;#43;Github&amp;#43;Obsidian%E6%90%AD%E5%BB%BA%E5%B9%B6%E9%83%A8%E7%BD%B2%E4%B8%AA%E4%BA%BA%E5%8D%9A%E5%AE%A2/index.zh-cn_20241222_160527_hu1943152020365308633.png 480w, https://zhengchuchuan.github.io/p/hugo-stack%E4%B8%BB%E9%A2%98-github-obsidian%E6%90%AD%E5%BB%BA%E5%B9%B6%E9%83%A8%E7%BD%B2%E4%B8%AA%E4%BA%BA%E5%8D%9A%E5%AE%A2/post/Hugo&amp;#43;Stack%E4%B8%BB%E9%A2%98&amp;#43;Github&amp;#43;Obsidian%E6%90%AD%E5%BB%BA%E5%B9%B6%E9%83%A8%E7%BD%B2%E4%B8%AA%E4%BA%BA%E5%8D%9A%E5%AE%A2/index.zh-cn_20241222_160527_hu10663813724626469701.png 1024w&#34;
 	loading=&#34;lazy&#34;
 	
 	
@@ -186,31 +186,61 @@
 &lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;//将生成的网站文件部署到指定的部署目标，如 GitHub Pages、Netlify 等。
 &lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
 &lt;/div&gt;
-&lt;/div&gt;&lt;h2 id=&#34;评论系统配置&#34;&gt;评论系统配置
+&lt;/div&gt;&lt;h2 id=&#34;评论系统giscus配置&#34;&gt;评论系统giscus配置
 &lt;/h2&gt;&lt;p&gt;stack支持很多评论系统这里选择giscus,在github中安装giscus app,选择自己github page的仓库,具体安装可参考&lt;a class=&#34;link&#34; href=&#34;https://www.lixueduan.com/posts/blog/02-add-giscus-comment/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
     &gt;Hugo 博客引入 Giscus 评论系统&lt;/a&gt;
-&lt;img src=&#34;https://zhengchuchuan.github.io/p/hugo-stack%E4%B8%BB%E9%A2%98-github-obsidian%E6%90%AD%E5%BB%BA%E5%B9%B6%E9%83%A8%E7%BD%B2%E4%B8%AA%E4%BA%BA%E5%8D%9A%E5%AE%A2/post/Hugo&amp;#43;Stack%E4%B8%BB%E9%A2%98&amp;#43;Github&amp;#43;Obsidian%E6%90%AD%E5%BB%BA%E5%B9%B6%E9%83%A8%E7%BD%B2%E4%B8%AA%E4%BA%BA%E5%8D%9A%E5%AE%A2/index_20241229_140633.png&#34;
-	width=&#34;800&#34;
-	height=&#34;1239&#34;
-	srcset=&#34;https://zhengchuchuan.github.io/p/hugo-stack%E4%B8%BB%E9%A2%98-github-obsidian%E6%90%AD%E5%BB%BA%E5%B9%B6%E9%83%A8%E7%BD%B2%E4%B8%AA%E4%BA%BA%E5%8D%9A%E5%AE%A2/post/Hugo&amp;#43;Stack%E4%B8%BB%E9%A2%98&amp;#43;Github&amp;#43;Obsidian%E6%90%AD%E5%BB%BA%E5%B9%B6%E9%83%A8%E7%BD%B2%E4%B8%AA%E4%BA%BA%E5%8D%9A%E5%AE%A2/index_20241229_140633_hu978169553164066252.png 480w, https://zhengchuchuan.github.io/p/hugo-stack%E4%B8%BB%E9%A2%98-github-obsidian%E6%90%AD%E5%BB%BA%E5%B9%B6%E9%83%A8%E7%BD%B2%E4%B8%AA%E4%BA%BA%E5%8D%9A%E5%AE%A2/post/Hugo&amp;#43;Stack%E4%B8%BB%E9%A2%98&amp;#43;Github&amp;#43;Obsidian%E6%90%AD%E5%BB%BA%E5%B9%B6%E9%83%A8%E7%BD%B2%E4%B8%AA%E4%BA%BA%E5%8D%9A%E5%AE%A2/index_20241229_140633_hu18295844067220159232.png 1024w&#34;
+这里提一点我安装遇到的问题,由于stack是多语言版本,加上github的一些防御机制,部署后网页可能会出现如下错误&lt;code&gt;giscus.app拒绝了我们的连接请求。&lt;/code&gt;
+&lt;img src=&#34;https://zhengchuchuan.github.io/p/hugo-stack%E4%B8%BB%E9%A2%98-github-obsidian%E6%90%AD%E5%BB%BA%E5%B9%B6%E9%83%A8%E7%BD%B2%E4%B8%AA%E4%BA%BA%E5%8D%9A%E5%AE%A2/post/Hugo&amp;#43;Stack%E4%B8%BB%E9%A2%98&amp;#43;Github&amp;#43;Obsidian%E6%90%AD%E5%BB%BA%E5%B9%B6%E9%83%A8%E7%BD%B2%E4%B8%AA%E4%BA%BA%E5%8D%9A%E5%AE%A2/index.zh-cn_20241229_183503.png&#34;
+	width=&#34;1896&#34;
+	height=&#34;1605&#34;
+	srcset=&#34;https://zhengchuchuan.github.io/p/hugo-stack%E4%B8%BB%E9%A2%98-github-obsidian%E6%90%AD%E5%BB%BA%E5%B9%B6%E9%83%A8%E7%BD%B2%E4%B8%AA%E4%BA%BA%E5%8D%9A%E5%AE%A2/post/Hugo&amp;#43;Stack%E4%B8%BB%E9%A2%98&amp;#43;Github&amp;#43;Obsidian%E6%90%AD%E5%BB%BA%E5%B9%B6%E9%83%A8%E7%BD%B2%E4%B8%AA%E4%BA%BA%E5%8D%9A%E5%AE%A2/index.zh-cn_20241229_183503_hu14865975476627889415.png 480w, https://zhengchuchuan.github.io/p/hugo-stack%E4%B8%BB%E9%A2%98-github-obsidian%E6%90%AD%E5%BB%BA%E5%B9%B6%E9%83%A8%E7%BD%B2%E4%B8%AA%E4%BA%BA%E5%8D%9A%E5%AE%A2/post/Hugo&amp;#43;Stack%E4%B8%BB%E9%A2%98&amp;#43;Github&amp;#43;Obsidian%E6%90%AD%E5%BB%BA%E5%B9%B6%E9%83%A8%E7%BD%B2%E4%B8%AA%E4%BA%BA%E5%8D%9A%E5%AE%A2/index.zh-cn_20241229_183503_hu1445940049277373903.png 1024w&#34;
 	loading=&#34;lazy&#34;
 	
-		alt=&#34;index_20241229_140633.png&#34;
+		alt=&#34;index.zh-cn_20241229_183503.png&#34;
 	
 	
 		class=&#34;gallery-image&#34; 
-		data-flex-grow=&#34;64&#34;
-		data-flex-basis=&#34;154px&#34;
+		data-flex-grow=&#34;118&#34;
+		data-flex-basis=&#34;283px&#34;
+	
+&gt;
+问题定位到:themes\hugo-theme-stack\layouts\partials\comments\provider\giscus.html 修改&lt;code&gt;data-lang&lt;/code&gt;
+&lt;img src=&#34;https://zhengchuchuan.github.io/p/hugo-stack%E4%B8%BB%E9%A2%98-github-obsidian%E6%90%AD%E5%BB%BA%E5%B9%B6%E9%83%A8%E7%BD%B2%E4%B8%AA%E4%BA%BA%E5%8D%9A%E5%AE%A2/post/Hugo&amp;#43;Stack%E4%B8%BB%E9%A2%98&amp;#43;Github&amp;#43;Obsidian%E6%90%AD%E5%BB%BA%E5%B9%B6%E9%83%A8%E7%BD%B2%E4%B8%AA%E4%BA%BA%E5%8D%9A%E5%AE%A2/index.zh-cn_20241229_183826.png&#34;
+	width=&#34;1237&#34;
+	height=&#34;646&#34;
+	srcset=&#34;https://zhengchuchuan.github.io/p/hugo-stack%E4%B8%BB%E9%A2%98-github-obsidian%E6%90%AD%E5%BB%BA%E5%B9%B6%E9%83%A8%E7%BD%B2%E4%B8%AA%E4%BA%BA%E5%8D%9A%E5%AE%A2/post/Hugo&amp;#43;Stack%E4%B8%BB%E9%A2%98&amp;#43;Github&amp;#43;Obsidian%E6%90%AD%E5%BB%BA%E5%B9%B6%E9%83%A8%E7%BD%B2%E4%B8%AA%E4%BA%BA%E5%8D%9A%E5%AE%A2/index.zh-cn_20241229_183826_hu4902140732432230504.png 480w, https://zhengchuchuan.github.io/p/hugo-stack%E4%B8%BB%E9%A2%98-github-obsidian%E6%90%AD%E5%BB%BA%E5%B9%B6%E9%83%A8%E7%BD%B2%E4%B8%AA%E4%BA%BA%E5%8D%9A%E5%AE%A2/post/Hugo&amp;#43;Stack%E4%B8%BB%E9%A2%98&amp;#43;Github&amp;#43;Obsidian%E6%90%AD%E5%BB%BA%E5%B9%B6%E9%83%A8%E7%BD%B2%E4%B8%AA%E4%BA%BA%E5%8D%9A%E5%AE%A2/index.zh-cn_20241229_183826_hu2646042922719242581.png 1024w&#34;
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;index.zh-cn_20241229_183826.png&#34;
+	
+	
+		class=&#34;gallery-image&#34; 
+		data-flex-grow=&#34;191&#34;
+		data-flex-basis=&#34;459px&#34;
+	
+&gt;
+并在hugo.yaml中添加&lt;code&gt;lang: &amp;quot;zh-CN&amp;quot;&lt;/code&gt;字段&lt;img src=&#34;https://zhengchuchuan.github.io/p/hugo-stack%E4%B8%BB%E9%A2%98-github-obsidian%E6%90%AD%E5%BB%BA%E5%B9%B6%E9%83%A8%E7%BD%B2%E4%B8%AA%E4%BA%BA%E5%8D%9A%E5%AE%A2/post/Hugo&amp;#43;Stack%E4%B8%BB%E9%A2%98&amp;#43;Github&amp;#43;Obsidian%E6%90%AD%E5%BB%BA%E5%B9%B6%E9%83%A8%E7%BD%B2%E4%B8%AA%E4%BA%BA%E5%8D%9A%E5%AE%A2/index.zh-cn_20241229_184118.png&#34;
+	width=&#34;1245&#34;
+	height=&#34;421&#34;
+	srcset=&#34;https://zhengchuchuan.github.io/p/hugo-stack%E4%B8%BB%E9%A2%98-github-obsidian%E6%90%AD%E5%BB%BA%E5%B9%B6%E9%83%A8%E7%BD%B2%E4%B8%AA%E4%BA%BA%E5%8D%9A%E5%AE%A2/post/Hugo&amp;#43;Stack%E4%B8%BB%E9%A2%98&amp;#43;Github&amp;#43;Obsidian%E6%90%AD%E5%BB%BA%E5%B9%B6%E9%83%A8%E7%BD%B2%E4%B8%AA%E4%BA%BA%E5%8D%9A%E5%AE%A2/index.zh-cn_20241229_184118_hu2740147806778517804.png 480w, https://zhengchuchuan.github.io/p/hugo-stack%E4%B8%BB%E9%A2%98-github-obsidian%E6%90%AD%E5%BB%BA%E5%B9%B6%E9%83%A8%E7%BD%B2%E4%B8%AA%E4%BA%BA%E5%8D%9A%E5%AE%A2/post/Hugo&amp;#43;Stack%E4%B8%BB%E9%A2%98&amp;#43;Github&amp;#43;Obsidian%E6%90%AD%E5%BB%BA%E5%B9%B6%E9%83%A8%E7%BD%B2%E4%B8%AA%E4%BA%BA%E5%8D%9A%E5%AE%A2/index.zh-cn_20241229_184118_hu9510050388581265246.png 1024w&#34;
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;index.zh-cn_20241229_184118.png&#34;
+	
+	
+		class=&#34;gallery-image&#34; 
+		data-flex-grow=&#34;295&#34;
+		data-flex-basis=&#34;709px&#34;
 	
 &gt;&lt;/p&gt;
 &lt;h2 id=&#34;博客自动化部署&#34;&gt;博客自动化部署
 &lt;/h2&gt;&lt;p&gt;上面提到的b站视频里已经包含了部署的详细内容,这里只补充一些踩坑的地方,建议如果你只打算部署一个博客,那么建议在github上使用两个项目文件夹管理你的博客,一个类似&lt;code&gt;https://github.com/yourUserName/ &lt;/code&gt;的私人仓库制作github pages,用于发布你的网站.另一个项目则用于保存你的源代码.
 需要注意以下几点:&lt;/p&gt;
 &lt;h3 id=&#34;github-pages-设置&#34;&gt;github pages 设置
-&lt;/h3&gt;&lt;p&gt;github pages是在&lt;code&gt;https://github.com/yourUserName/ &lt;/code&gt;这个私有的项目上部署,所以需要再这个项目设置中开启github pages配置&lt;img src=&#34;https://zhengchuchuan.github.io/p/hugo-stack%E4%B8%BB%E9%A2%98-github-obsidian%E6%90%AD%E5%BB%BA%E5%B9%B6%E9%83%A8%E7%BD%B2%E4%B8%AA%E4%BA%BA%E5%8D%9A%E5%AE%A2/post/Hugo&amp;#43;Stack%E4%B8%BB%E9%A2%98&amp;#43;Github&amp;#43;Obsidian%E6%90%AD%E5%BB%BA%E5%B9%B6%E9%83%A8%E7%BD%B2%E4%B8%AA%E4%BA%BA%E5%8D%9A%E5%AE%A2/index_20241222_164808.png&#34;
+&lt;/h3&gt;&lt;p&gt;github pages是在&lt;code&gt;https://github.com/yourUserName/ &lt;/code&gt;这个私有的项目上部署,所以需要再这个项目设置中开启github pages配置&lt;img src=&#34;https://zhengchuchuan.github.io/p/hugo-stack%E4%B8%BB%E9%A2%98-github-obsidian%E6%90%AD%E5%BB%BA%E5%B9%B6%E9%83%A8%E7%BD%B2%E4%B8%AA%E4%BA%BA%E5%8D%9A%E5%AE%A2/post/Hugo&amp;#43;Stack%E4%B8%BB%E9%A2%98&amp;#43;Github&amp;#43;Obsidian%E6%90%AD%E5%BB%BA%E5%B9%B6%E9%83%A8%E7%BD%B2%E4%B8%AA%E4%BA%BA%E5%8D%9A%E5%AE%A2/index.zh-cn_20241222_164808.png&#34;
 	width=&#34;2695&#34;
 	height=&#34;1494&#34;
-	srcset=&#34;https://zhengchuchuan.github.io/p/hugo-stack%E4%B8%BB%E9%A2%98-github-obsidian%E6%90%AD%E5%BB%BA%E5%B9%B6%E9%83%A8%E7%BD%B2%E4%B8%AA%E4%BA%BA%E5%8D%9A%E5%AE%A2/post/Hugo&amp;#43;Stack%E4%B8%BB%E9%A2%98&amp;#43;Github&amp;#43;Obsidian%E6%90%AD%E5%BB%BA%E5%B9%B6%E9%83%A8%E7%BD%B2%E4%B8%AA%E4%BA%BA%E5%8D%9A%E5%AE%A2/index_20241222_164808_hu2284902585429899407.png 480w, https://zhengchuchuan.github.io/p/hugo-stack%E4%B8%BB%E9%A2%98-github-obsidian%E6%90%AD%E5%BB%BA%E5%B9%B6%E9%83%A8%E7%BD%B2%E4%B8%AA%E4%BA%BA%E5%8D%9A%E5%AE%A2/post/Hugo&amp;#43;Stack%E4%B8%BB%E9%A2%98&amp;#43;Github&amp;#43;Obsidian%E6%90%AD%E5%BB%BA%E5%B9%B6%E9%83%A8%E7%BD%B2%E4%B8%AA%E4%BA%BA%E5%8D%9A%E5%AE%A2/index_20241222_164808_hu14874202106026616479.png 1024w&#34;
+	srcset=&#34;https://zhengchuchuan.github.io/p/hugo-stack%E4%B8%BB%E9%A2%98-github-obsidian%E6%90%AD%E5%BB%BA%E5%B9%B6%E9%83%A8%E7%BD%B2%E4%B8%AA%E4%BA%BA%E5%8D%9A%E5%AE%A2/post/Hugo&amp;#43;Stack%E4%B8%BB%E9%A2%98&amp;#43;Github&amp;#43;Obsidian%E6%90%AD%E5%BB%BA%E5%B9%B6%E9%83%A8%E7%BD%B2%E4%B8%AA%E4%BA%BA%E5%8D%9A%E5%AE%A2/index.zh-cn_20241222_164808_hu2284902585429899407.png 480w, https://zhengchuchuan.github.io/p/hugo-stack%E4%B8%BB%E9%A2%98-github-obsidian%E6%90%AD%E5%BB%BA%E5%B9%B6%E9%83%A8%E7%BD%B2%E4%B8%AA%E4%BA%BA%E5%8D%9A%E5%AE%A2/post/Hugo&amp;#43;Stack%E4%B8%BB%E9%A2%98&amp;#43;Github&amp;#43;Obsidian%E6%90%AD%E5%BB%BA%E5%B9%B6%E9%83%A8%E7%BD%B2%E4%B8%AA%E4%BA%BA%E5%8D%9A%E5%AE%A2/index.zh-cn_20241222_164808_hu14874202106026616479.png 1024w&#34;
 	loading=&#34;lazy&#34;
 	
 	
@@ -221,7 +251,7 @@
 &gt;&lt;/p&gt;
 &lt;h3 id=&#34;github-action配置&#34;&gt;github action配置
 &lt;/h3&gt;&lt;p&gt;action可以理解为在执行github的一些操作时,自动触发其他动作的脚本。以下配置内容主要是实现在本地项目push到github时，自动将./public中的网站源代码push到&lt;code&gt;https://github.com/yourUserName/&lt;/code&gt;中,并通过github pages部署.
-在本地的项目中创建如下文件,文件名随意&lt;code&gt;.github\workflows\hugo_deploy.yaml&lt;/code&gt; 粘贴如下内容,注意替换代码末尾的仓库地址&lt;/p&gt;
+在本地的项目中创建如下文件&lt;code&gt;.github\workflows\hugo_deploy.yaml&lt;/code&gt;,文件名随意,粘贴如下内容,注意替换代码末尾的仓库地址&lt;/p&gt;
 &lt;div class=&#34;highlight&#34;&gt;&lt;div class=&#34;chroma&#34;&gt;
 &lt;table class=&#34;lntable&#34;&gt;&lt;tr&gt;&lt;td class=&#34;lntd&#34;&gt;
 &lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code&gt;&lt;span class=&#34;lnt&#34;&gt; 1
@@ -343,10 +373,10 @@ Obsidian可以预先写好模板,新建模板后直接插入即可达成hugo命�
 &lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;---
 &lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
 &lt;/div&gt;
-&lt;/div&gt;&lt;p&gt;以上模板文件即可生成如下效果：&lt;img src=&#34;https://zhengchuchuan.github.io/p/hugo-stack%E4%B8%BB%E9%A2%98-github-obsidian%E6%90%AD%E5%BB%BA%E5%B9%B6%E9%83%A8%E7%BD%B2%E4%B8%AA%E4%BA%BA%E5%8D%9A%E5%AE%A2/post/Hugo&amp;#43;Stack%E4%B8%BB%E9%A2%98&amp;#43;Github&amp;#43;Obsidian%E6%90%AD%E5%BB%BA%E5%B9%B6%E9%83%A8%E7%BD%B2%E4%B8%AA%E4%BA%BA%E5%8D%9A%E5%AE%A2/index_20241222_221638.png&#34;
+&lt;/div&gt;&lt;p&gt;以上模板文件即可生成如下效果：&lt;img src=&#34;https://zhengchuchuan.github.io/p/hugo-stack%E4%B8%BB%E9%A2%98-github-obsidian%E6%90%AD%E5%BB%BA%E5%B9%B6%E9%83%A8%E7%BD%B2%E4%B8%AA%E4%BA%BA%E5%8D%9A%E5%AE%A2/post/Hugo&amp;#43;Stack%E4%B8%BB%E9%A2%98&amp;#43;Github&amp;#43;Obsidian%E6%90%AD%E5%BB%BA%E5%B9%B6%E9%83%A8%E7%BD%B2%E4%B8%AA%E4%BA%BA%E5%8D%9A%E5%AE%A2/index.zh-cn_20241222_221638.png&#34;
 	width=&#34;1077&#34;
 	height=&#34;532&#34;
-	srcset=&#34;https://zhengchuchuan.github.io/p/hugo-stack%E4%B8%BB%E9%A2%98-github-obsidian%E6%90%AD%E5%BB%BA%E5%B9%B6%E9%83%A8%E7%BD%B2%E4%B8%AA%E4%BA%BA%E5%8D%9A%E5%AE%A2/post/Hugo&amp;#43;Stack%E4%B8%BB%E9%A2%98&amp;#43;Github&amp;#43;Obsidian%E6%90%AD%E5%BB%BA%E5%B9%B6%E9%83%A8%E7%BD%B2%E4%B8%AA%E4%BA%BA%E5%8D%9A%E5%AE%A2/index_20241222_221638_hu13757192382828706096.png 480w, https://zhengchuchuan.github.io/p/hugo-stack%E4%B8%BB%E9%A2%98-github-obsidian%E6%90%AD%E5%BB%BA%E5%B9%B6%E9%83%A8%E7%BD%B2%E4%B8%AA%E4%BA%BA%E5%8D%9A%E5%AE%A2/post/Hugo&amp;#43;Stack%E4%B8%BB%E9%A2%98&amp;#43;Github&amp;#43;Obsidian%E6%90%AD%E5%BB%BA%E5%B9%B6%E9%83%A8%E7%BD%B2%E4%B8%AA%E4%BA%BA%E5%8D%9A%E5%AE%A2/index_20241222_221638_hu1282333407221636839.png 1024w&#34;
+	srcset=&#34;https://zhengchuchuan.github.io/p/hugo-stack%E4%B8%BB%E9%A2%98-github-obsidian%E6%90%AD%E5%BB%BA%E5%B9%B6%E9%83%A8%E7%BD%B2%E4%B8%AA%E4%BA%BA%E5%8D%9A%E5%AE%A2/post/Hugo&amp;#43;Stack%E4%B8%BB%E9%A2%98&amp;#43;Github&amp;#43;Obsidian%E6%90%AD%E5%BB%BA%E5%B9%B6%E9%83%A8%E7%BD%B2%E4%B8%AA%E4%BA%BA%E5%8D%9A%E5%AE%A2/index.zh-cn_20241222_221638_hu13757192382828706096.png 480w, https://zhengchuchuan.github.io/p/hugo-stack%E4%B8%BB%E9%A2%98-github-obsidian%E6%90%AD%E5%BB%BA%E5%B9%B6%E9%83%A8%E7%BD%B2%E4%B8%AA%E4%BA%BA%E5%8D%9A%E5%AE%A2/post/Hugo&amp;#43;Stack%E4%B8%BB%E9%A2%98&amp;#43;Github&amp;#43;Obsidian%E6%90%AD%E5%BB%BA%E5%B9%B6%E9%83%A8%E7%BD%B2%E4%B8%AA%E4%BA%BA%E5%8D%9A%E5%AE%A2/index.zh-cn_20241222_221638_hu1282333407221636839.png 1024w&#34;
 	loading=&#34;lazy&#34;
 	
 	
@@ -358,13 +388,13 @@ Obsidian可以预先写好模板,新建模板后直接插入即可达成hugo命�
 后续新建一篇博客只需要插入此模板即可。&lt;/p&gt;
 &lt;h3 id=&#34;obsidian附件管理&#34;&gt;Obsidian附件管理
 &lt;/h3&gt;&lt;p&gt;由于hugo的格式要求将附件放在index文件夹的同级目录,所以需要在&lt;strong&gt;设置-&amp;gt;文件与链接&lt;/strong&gt;中将附件默认存放路径更改为当前博客所在的文件
-&lt;img src=&#34;https://zhengchuchuan.github.io/p/hugo-stack%E4%B8%BB%E9%A2%98-github-obsidian%E6%90%AD%E5%BB%BA%E5%B9%B6%E9%83%A8%E7%BD%B2%E4%B8%AA%E4%BA%BA%E5%8D%9A%E5%AE%A2/post/Hugo&amp;#43;Stack%E4%B8%BB%E9%A2%98&amp;#43;Github&amp;#43;Obsidian%E6%90%AD%E5%BB%BA%E5%B9%B6%E9%83%A8%E7%BD%B2%E4%B8%AA%E4%BA%BA%E5%8D%9A%E5%AE%A2/index_20241229_130523.png&#34;
+&lt;img src=&#34;https://zhengchuchuan.github.io/p/hugo-stack%E4%B8%BB%E9%A2%98-github-obsidian%E6%90%AD%E5%BB%BA%E5%B9%B6%E9%83%A8%E7%BD%B2%E4%B8%AA%E4%BA%BA%E5%8D%9A%E5%AE%A2/post/Hugo&amp;#43;Stack%E4%B8%BB%E9%A2%98&amp;#43;Github&amp;#43;Obsidian%E6%90%AD%E5%BB%BA%E5%B9%B6%E9%83%A8%E7%BD%B2%E4%B8%AA%E4%BA%BA%E5%8D%9A%E5%AE%A2/index.zh-cn_20241229_130523.png&#34;
 	width=&#34;1638&#34;
 	height=&#34;1283&#34;
-	srcset=&#34;https://zhengchuchuan.github.io/p/hugo-stack%E4%B8%BB%E9%A2%98-github-obsidian%E6%90%AD%E5%BB%BA%E5%B9%B6%E9%83%A8%E7%BD%B2%E4%B8%AA%E4%BA%BA%E5%8D%9A%E5%AE%A2/post/Hugo&amp;#43;Stack%E4%B8%BB%E9%A2%98&amp;#43;Github&amp;#43;Obsidian%E6%90%AD%E5%BB%BA%E5%B9%B6%E9%83%A8%E7%BD%B2%E4%B8%AA%E4%BA%BA%E5%8D%9A%E5%AE%A2/index_20241229_130523_hu662729376821768850.png 480w, https://zhengchuchuan.github.io/p/hugo-stack%E4%B8%BB%E9%A2%98-github-obsidian%E6%90%AD%E5%BB%BA%E5%B9%B6%E9%83%A8%E7%BD%B2%E4%B8%AA%E4%BA%BA%E5%8D%9A%E5%AE%A2/post/Hugo&amp;#43;Stack%E4%B8%BB%E9%A2%98&amp;#43;Github&amp;#43;Obsidian%E6%90%AD%E5%BB%BA%E5%B9%B6%E9%83%A8%E7%BD%B2%E4%B8%AA%E4%BA%BA%E5%8D%9A%E5%AE%A2/index_20241229_130523_hu11039197391916735311.png 1024w&#34;
+	srcset=&#34;https://zhengchuchuan.github.io/p/hugo-stack%E4%B8%BB%E9%A2%98-github-obsidian%E6%90%AD%E5%BB%BA%E5%B9%B6%E9%83%A8%E7%BD%B2%E4%B8%AA%E4%BA%BA%E5%8D%9A%E5%AE%A2/post/Hugo&amp;#43;Stack%E4%B8%BB%E9%A2%98&amp;#43;Github&amp;#43;Obsidian%E6%90%AD%E5%BB%BA%E5%B9%B6%E9%83%A8%E7%BD%B2%E4%B8%AA%E4%BA%BA%E5%8D%9A%E5%AE%A2/index.zh-cn_20241229_130523_hu662729376821768850.png 480w, https://zhengchuchuan.github.io/p/hugo-stack%E4%B8%BB%E9%A2%98-github-obsidian%E6%90%AD%E5%BB%BA%E5%B9%B6%E9%83%A8%E7%BD%B2%E4%B8%AA%E4%BA%BA%E5%8D%9A%E5%AE%A2/post/Hugo&amp;#43;Stack%E4%B8%BB%E9%A2%98&amp;#43;Github&amp;#43;Obsidian%E6%90%AD%E5%BB%BA%E5%B9%B6%E9%83%A8%E7%BD%B2%E4%B8%AA%E4%BA%BA%E5%8D%9A%E5%AE%A2/index.zh-cn_20241229_130523_hu11039197391916735311.png 1024w&#34;
 	loading=&#34;lazy&#34;
 	
-		alt=&#34;index_20241229_130523.png&#34;
+		alt=&#34;index.zh-cn_20241229_130523.png&#34;
 	
 	
 		class=&#34;gallery-image&#34; 
@@ -389,13 +419,13 @@ Obsidian可以预先写好模板,新建模板后直接插入即可达成hugo命�
 wiki 链接虽然为 Obsidian 独有，然而各家针对 Obsidian 已经做了很多配套，文件链接使用 markdown 链接往往被识别为附件或者外链（比如思源笔记、vercel）;
 Obsidian 的外链只能使用 markdown 链接，使用 wiki 链接会无法跳转&lt;/p&gt;
 &lt;h3 id=&#34;paste-image-rename插件消除图像文件空格&#34;&gt;&lt;strong&gt;Paste Image Rename&lt;/strong&gt;插件消除图像文件空格
-&lt;/h3&gt;&lt;p&gt;由于截图的图像粘贴到Obsidian中时会命名为类似如下的格式:Pasted image 20241229130829.png, html中不支持空格,所以需要去除图像中的空格,这里需要用到一个插件&lt;strong&gt;Paste Image Rename&lt;/strong&gt;,通过在导入文件时自动重命名文件以起到消除空格的作用,参考重命名格式如下&lt;img src=&#34;https://zhengchuchuan.github.io/p/hugo-stack%E4%B8%BB%E9%A2%98-github-obsidian%E6%90%AD%E5%BB%BA%E5%B9%B6%E9%83%A8%E7%BD%B2%E4%B8%AA%E4%BA%BA%E5%8D%9A%E5%AE%A2/post/Hugo&amp;#43;Stack%E4%B8%BB%E9%A2%98&amp;#43;Github&amp;#43;Obsidian%E6%90%AD%E5%BB%BA%E5%B9%B6%E9%83%A8%E7%BD%B2%E4%B8%AA%E4%BA%BA%E5%8D%9A%E5%AE%A2/index_20241223_000939.png&#34;
+&lt;/h3&gt;&lt;p&gt;由于截图的图像粘贴到Obsidian中时会命名为类似如下的格式:Pasted image 20241229130829.png, html中不支持空格,所以需要去除图像中的空格,这里需要用到一个插件&lt;strong&gt;Paste Image Rename&lt;/strong&gt;,通过在导入文件时自动重命名文件以起到消除空格的作用,参考重命名格式如下&lt;img src=&#34;https://zhengchuchuan.github.io/p/hugo-stack%E4%B8%BB%E9%A2%98-github-obsidian%E6%90%AD%E5%BB%BA%E5%B9%B6%E9%83%A8%E7%BD%B2%E4%B8%AA%E4%BA%BA%E5%8D%9A%E5%AE%A2/post/Hugo&amp;#43;Stack%E4%B8%BB%E9%A2%98&amp;#43;Github&amp;#43;Obsidian%E6%90%AD%E5%BB%BA%E5%B9%B6%E9%83%A8%E7%BD%B2%E4%B8%AA%E4%BA%BA%E5%8D%9A%E5%AE%A2/index.zh-cn_20241223_000939.png&#34;
 	width=&#34;1641&#34;
 	height=&#34;1494&#34;
-	srcset=&#34;https://zhengchuchuan.github.io/p/hugo-stack%E4%B8%BB%E9%A2%98-github-obsidian%E6%90%AD%E5%BB%BA%E5%B9%B6%E9%83%A8%E7%BD%B2%E4%B8%AA%E4%BA%BA%E5%8D%9A%E5%AE%A2/post/Hugo&amp;#43;Stack%E4%B8%BB%E9%A2%98&amp;#43;Github&amp;#43;Obsidian%E6%90%AD%E5%BB%BA%E5%B9%B6%E9%83%A8%E7%BD%B2%E4%B8%AA%E4%BA%BA%E5%8D%9A%E5%AE%A2/index_20241223_000939_hu3365746779644214441.png 480w, https://zhengchuchuan.github.io/p/hugo-stack%E4%B8%BB%E9%A2%98-github-obsidian%E6%90%AD%E5%BB%BA%E5%B9%B6%E9%83%A8%E7%BD%B2%E4%B8%AA%E4%BA%BA%E5%8D%9A%E5%AE%A2/post/Hugo&amp;#43;Stack%E4%B8%BB%E9%A2%98&amp;#43;Github&amp;#43;Obsidian%E6%90%AD%E5%BB%BA%E5%B9%B6%E9%83%A8%E7%BD%B2%E4%B8%AA%E4%BA%BA%E5%8D%9A%E5%AE%A2/index_20241223_000939_hu7420107141089786410.png 1024w&#34;
+	srcset=&#34;https://zhengchuchuan.github.io/p/hugo-stack%E4%B8%BB%E9%A2%98-github-obsidian%E6%90%AD%E5%BB%BA%E5%B9%B6%E9%83%A8%E7%BD%B2%E4%B8%AA%E4%BA%BA%E5%8D%9A%E5%AE%A2/post/Hugo&amp;#43;Stack%E4%B8%BB%E9%A2%98&amp;#43;Github&amp;#43;Obsidian%E6%90%AD%E5%BB%BA%E5%B9%B6%E9%83%A8%E7%BD%B2%E4%B8%AA%E4%BA%BA%E5%8D%9A%E5%AE%A2/index.zh-cn_20241223_000939_hu3365746779644214441.png 480w, https://zhengchuchuan.github.io/p/hugo-stack%E4%B8%BB%E9%A2%98-github-obsidian%E6%90%AD%E5%BB%BA%E5%B9%B6%E9%83%A8%E7%BD%B2%E4%B8%AA%E4%BA%BA%E5%8D%9A%E5%AE%A2/post/Hugo&amp;#43;Stack%E4%B8%BB%E9%A2%98&amp;#43;Github&amp;#43;Obsidian%E6%90%AD%E5%BB%BA%E5%B9%B6%E9%83%A8%E7%BD%B2%E4%B8%AA%E4%BA%BA%E5%8D%9A%E5%AE%A2/index.zh-cn_20241223_000939_hu7420107141089786410.png 1024w&#34;
 	loading=&#34;lazy&#34;
 	
-		alt=&#34;index_20241223_000939.png&#34;
+		alt=&#34;index.zh-cn_20241223_000939.png&#34;
 	
 	
 		class=&#34;gallery-image&#34; 
@@ -406,13 +436,13 @@ Obsidian 的外链只能使用 markdown 链接，使用 wiki 链接会无法跳�
 &lt;h3 id=&#34;obsidian中文件链接的选择&#34;&gt;Obsidian中文件链接的选择
 &lt;/h3&gt;&lt;p&gt;Obsidian默认使用wiki的文件链接格式,由于网页渲染需要原生的markdown文件链接格式,所以有两个选择:&lt;/p&gt;
 &lt;h4 id=&#34;使用markdown文件链接&#34;&gt;使用markdown文件链接
-&lt;/h4&gt;&lt;p&gt;Obsidian不使用wiki链接,一直使用markdown文件链接格式,在&lt;strong&gt;设置-&amp;gt;文件与链接&lt;/strong&gt;中关闭使用wiki格式即可&lt;img src=&#34;https://zhengchuchuan.github.io/p/hugo-stack%E4%B8%BB%E9%A2%98-github-obsidian%E6%90%AD%E5%BB%BA%E5%B9%B6%E9%83%A8%E7%BD%B2%E4%B8%AA%E4%BA%BA%E5%8D%9A%E5%AE%A2/post/Hugo&amp;#43;Stack%E4%B8%BB%E9%A2%98&amp;#43;Github&amp;#43;Obsidian%E6%90%AD%E5%BB%BA%E5%B9%B6%E9%83%A8%E7%BD%B2%E4%B8%AA%E4%BA%BA%E5%8D%9A%E5%AE%A2/index_20241222_235416.png&#34;
+&lt;/h4&gt;&lt;p&gt;Obsidian不使用wiki链接,一直使用markdown文件链接格式,在&lt;strong&gt;设置-&amp;gt;文件与链接&lt;/strong&gt;中关闭使用wiki格式即可&lt;img src=&#34;https://zhengchuchuan.github.io/p/hugo-stack%E4%B8%BB%E9%A2%98-github-obsidian%E6%90%AD%E5%BB%BA%E5%B9%B6%E9%83%A8%E7%BD%B2%E4%B8%AA%E4%BA%BA%E5%8D%9A%E5%AE%A2/post/Hugo&amp;#43;Stack%E4%B8%BB%E9%A2%98&amp;#43;Github&amp;#43;Obsidian%E6%90%AD%E5%BB%BA%E5%B9%B6%E9%83%A8%E7%BD%B2%E4%B8%AA%E4%BA%BA%E5%8D%9A%E5%AE%A2/index.zh-cn_20241222_235416.png&#34;
 	width=&#34;1631&#34;
 	height=&#34;1314&#34;
-	srcset=&#34;https://zhengchuchuan.github.io/p/hugo-stack%E4%B8%BB%E9%A2%98-github-obsidian%E6%90%AD%E5%BB%BA%E5%B9%B6%E9%83%A8%E7%BD%B2%E4%B8%AA%E4%BA%BA%E5%8D%9A%E5%AE%A2/post/Hugo&amp;#43;Stack%E4%B8%BB%E9%A2%98&amp;#43;Github&amp;#43;Obsidian%E6%90%AD%E5%BB%BA%E5%B9%B6%E9%83%A8%E7%BD%B2%E4%B8%AA%E4%BA%BA%E5%8D%9A%E5%AE%A2/index_20241222_235416_hu6420101366163860865.png 480w, https://zhengchuchuan.github.io/p/hugo-stack%E4%B8%BB%E9%A2%98-github-obsidian%E6%90%AD%E5%BB%BA%E5%B9%B6%E9%83%A8%E7%BD%B2%E4%B8%AA%E4%BA%BA%E5%8D%9A%E5%AE%A2/post/Hugo&amp;#43;Stack%E4%B8%BB%E9%A2%98&amp;#43;Github&amp;#43;Obsidian%E6%90%AD%E5%BB%BA%E5%B9%B6%E9%83%A8%E7%BD%B2%E4%B8%AA%E4%BA%BA%E5%8D%9A%E5%AE%A2/index_20241222_235416_hu2421079986909934093.png 1024w&#34;
+	srcset=&#34;https://zhengchuchuan.github.io/p/hugo-stack%E4%B8%BB%E9%A2%98-github-obsidian%E6%90%AD%E5%BB%BA%E5%B9%B6%E9%83%A8%E7%BD%B2%E4%B8%AA%E4%BA%BA%E5%8D%9A%E5%AE%A2/post/Hugo&amp;#43;Stack%E4%B8%BB%E9%A2%98&amp;#43;Github&amp;#43;Obsidian%E6%90%AD%E5%BB%BA%E5%B9%B6%E9%83%A8%E7%BD%B2%E4%B8%AA%E4%BA%BA%E5%8D%9A%E5%AE%A2/index.zh-cn_20241222_235416_hu6420101366163860865.png 480w, https://zhengchuchuan.github.io/p/hugo-stack%E4%B8%BB%E9%A2%98-github-obsidian%E6%90%AD%E5%BB%BA%E5%B9%B6%E9%83%A8%E7%BD%B2%E4%B8%AA%E4%BA%BA%E5%8D%9A%E5%AE%A2/post/Hugo&amp;#43;Stack%E4%B8%BB%E9%A2%98&amp;#43;Github&amp;#43;Obsidian%E6%90%AD%E5%BB%BA%E5%B9%B6%E9%83%A8%E7%BD%B2%E4%B8%AA%E4%BA%BA%E5%8D%9A%E5%AE%A2/index.zh-cn_20241222_235416_hu2421079986909934093.png 1024w&#34;
 	loading=&#34;lazy&#34;
 	
-		alt=&#34;index_20241222_235416.png&#34;
+		alt=&#34;index.zh-cn_20241222_235416.png&#34;
 	
 	
 		class=&#34;gallery-image&#34; 
@@ -423,13 +453,13 @@ Obsidian 的外链只能使用 markdown 链接，使用 wiki 链接会无法跳�
 &lt;h4 id=&#34;使用wiki格式部署时再转换为原始的markdown格式&#34;&gt;使用wiki格式部署时再转换为原始的markdown格式
 &lt;/h4&gt;&lt;p&gt;下载&lt;a class=&#34;link&#34; href=&#34;https://github.com/mii-key/obsidian-links&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
     &gt;Links&lt;/a&gt;插件,只需在设置菜单开启convert Wikilinks to Markdown links后即可在右键菜单找到此选项,全选文本,执行此命令即可成功将Wiki链接全部替换为markdown链接
-&lt;img src=&#34;https://zhengchuchuan.github.io/p/hugo-stack%E4%B8%BB%E9%A2%98-github-obsidian%E6%90%AD%E5%BB%BA%E5%B9%B6%E9%83%A8%E7%BD%B2%E4%B8%AA%E4%BA%BA%E5%8D%9A%E5%AE%A2/post/Hugo&amp;#43;Stack%E4%B8%BB%E9%A2%98&amp;#43;Github&amp;#43;Obsidian%E6%90%AD%E5%BB%BA%E5%B9%B6%E9%83%A8%E7%BD%B2%E4%B8%AA%E4%BA%BA%E5%8D%9A%E5%AE%A2/index_20241228_235208.png&#34;
+&lt;img src=&#34;https://zhengchuchuan.github.io/p/hugo-stack%E4%B8%BB%E9%A2%98-github-obsidian%E6%90%AD%E5%BB%BA%E5%B9%B6%E9%83%A8%E7%BD%B2%E4%B8%AA%E4%BA%BA%E5%8D%9A%E5%AE%A2/post/Hugo&amp;#43;Stack%E4%B8%BB%E9%A2%98&amp;#43;Github&amp;#43;Obsidian%E6%90%AD%E5%BB%BA%E5%B9%B6%E9%83%A8%E7%BD%B2%E4%B8%AA%E4%BA%BA%E5%8D%9A%E5%AE%A2/index.zh-cn_20241228_235208.png&#34;
 	width=&#34;1628&#34;
 	height=&#34;1505&#34;
-	srcset=&#34;https://zhengchuchuan.github.io/p/hugo-stack%E4%B8%BB%E9%A2%98-github-obsidian%E6%90%AD%E5%BB%BA%E5%B9%B6%E9%83%A8%E7%BD%B2%E4%B8%AA%E4%BA%BA%E5%8D%9A%E5%AE%A2/post/Hugo&amp;#43;Stack%E4%B8%BB%E9%A2%98&amp;#43;Github&amp;#43;Obsidian%E6%90%AD%E5%BB%BA%E5%B9%B6%E9%83%A8%E7%BD%B2%E4%B8%AA%E4%BA%BA%E5%8D%9A%E5%AE%A2/index_20241228_235208_hu9683657255040786646.png 480w, https://zhengchuchuan.github.io/p/hugo-stack%E4%B8%BB%E9%A2%98-github-obsidian%E6%90%AD%E5%BB%BA%E5%B9%B6%E9%83%A8%E7%BD%B2%E4%B8%AA%E4%BA%BA%E5%8D%9A%E5%AE%A2/post/Hugo&amp;#43;Stack%E4%B8%BB%E9%A2%98&amp;#43;Github&amp;#43;Obsidian%E6%90%AD%E5%BB%BA%E5%B9%B6%E9%83%A8%E7%BD%B2%E4%B8%AA%E4%BA%BA%E5%8D%9A%E5%AE%A2/index_20241228_235208_hu5928991893875582457.png 1024w&#34;
+	srcset=&#34;https://zhengchuchuan.github.io/p/hugo-stack%E4%B8%BB%E9%A2%98-github-obsidian%E6%90%AD%E5%BB%BA%E5%B9%B6%E9%83%A8%E7%BD%B2%E4%B8%AA%E4%BA%BA%E5%8D%9A%E5%AE%A2/post/Hugo&amp;#43;Stack%E4%B8%BB%E9%A2%98&amp;#43;Github&amp;#43;Obsidian%E6%90%AD%E5%BB%BA%E5%B9%B6%E9%83%A8%E7%BD%B2%E4%B8%AA%E4%BA%BA%E5%8D%9A%E5%AE%A2/index.zh-cn_20241228_235208_hu9683657255040786646.png 480w, https://zhengchuchuan.github.io/p/hugo-stack%E4%B8%BB%E9%A2%98-github-obsidian%E6%90%AD%E5%BB%BA%E5%B9%B6%E9%83%A8%E7%BD%B2%E4%B8%AA%E4%BA%BA%E5%8D%9A%E5%AE%A2/post/Hugo&amp;#43;Stack%E4%B8%BB%E9%A2%98&amp;#43;Github&amp;#43;Obsidian%E6%90%AD%E5%BB%BA%E5%B9%B6%E9%83%A8%E7%BD%B2%E4%B8%AA%E4%BA%BA%E5%8D%9A%E5%AE%A2/index.zh-cn_20241228_235208_hu5928991893875582457.png 1024w&#34;
 	loading=&#34;lazy&#34;
 	
-		alt=&#34;index_20241228_235208.png&#34;
+		alt=&#34;index.zh-cn_20241228_235208.png&#34;
 	
 	
 		class=&#34;gallery-image&#34; 
